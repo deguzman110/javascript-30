@@ -1,6 +1,6 @@
 Note: This is a duplicate of JavaScript30, created by Wes Bos. Going through each module, and pushing my end results to GitHub. Results may be slightly styled and customized by me, as opposed to the original solutions.
 
-All information below is directly from his repository: (https://github.com/wesbos/JavaScript30).
+All information below is directly from his repository: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30).
 
 ![](https://javascript30.com/images/JS3-social-share.png)
 
